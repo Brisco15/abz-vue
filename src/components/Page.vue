@@ -339,7 +339,7 @@
     height: 672px
     max-width: 1170px
     margin-left: 91px
-    background-image: url(../assets/img/bg-1.jpg)
+    background-image: url(../assets/img/bg-1.webp)
     background-repeat: no-repeat
     background-size: cover
   .section1 span
@@ -518,7 +518,7 @@
     display: block 
     height: 638px
     max-width: 1170px
-    background-image: url(../assets/img/bg-2.jpg)
+    background-image: url(../assets/img/bg-2.webp)
     background-repeat: no-repeat
     background-size: cover
     margin-left: 91px
